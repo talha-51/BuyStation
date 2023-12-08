@@ -1,0 +1,25 @@
+@extends('layout')
+
+@section('navbar')
+    <nav class="navbar navbar-expand-lg bg-body-tertiary">
+        <div class="container-fluid">
+            <a class="navbar-brand text-primary" href="{{ route('home.index') }}">BuyStation</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText"
+                aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarText">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="{{ route('home.index') }}">Home</a>
+                    </li>
+                </ul>
+                <span class="navbar-text">
+                    <a
+                        href="@if (session('employee_id')) {{ route('employee.index') }} @else {{ route('login.index') }} @endif"><button
+                            class="btn btn-outline-secondary" type="submit">Login</button></a>
+                </span>
+            </div>
+        </div>
+    </nav>
+@endsection
