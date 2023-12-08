@@ -9,7 +9,7 @@ Requirements:
 To Run The Project:
 
 1. Start Apache and MySQL in XAMPP.
-2. Create a DB named 'buy_station' in phpMyAdmin.
+2. Create a DB named 'buy_station' in phpMyAdmin and inside it, import the 'buy_station.sql' file from the folder DB.
 3. Clone the project.
 4. Go inside the project folder (BuyStation) and run the following commands one by one in git bash / cmd:
    1. composer install
