@@ -21,3 +21,19 @@ To Run The Project:
 Login credential:
 
 Username: emp1 password: emp#1
+
+Project Pictures:
+
+![1](https://github.com/talha-51/BuyStation/assets/77994433/8fc20cd9-1743-4235-a737-ab5449fa9828)
+
+![2](https://github.com/talha-51/BuyStation/assets/77994433/df292b15-2e0a-4ec6-a4ab-1c099435226b)
+
+![3](https://github.com/talha-51/BuyStation/assets/77994433/b6de039e-a9f0-4b26-96c0-fe9593e62f8c)
+
+![4](https://github.com/talha-51/BuyStation/assets/77994433/3f0fcf22-4ec1-4268-9f20-3f9831a28815)
+
+![5](https://github.com/talha-51/BuyStation/assets/77994433/8759b0c0-288f-4dae-82e2-690b7edcf3f9)
+
+![6](https://github.com/talha-51/BuyStation/assets/77994433/7bf8b36a-2efe-4799-a5ca-3f122fec5ac3)
+
+![7](https://github.com/talha-51/BuyStation/assets/77994433/787751d2-9e02-4db6-9b94-87d4e5a81d4f)
